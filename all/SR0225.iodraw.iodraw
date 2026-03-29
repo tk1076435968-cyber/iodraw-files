@@ -10,6 +10,9 @@
         <mxCell id="la3iZoACToCe80UniCgR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="la3iZoACToCe80UniCgR-1" target="la3iZoACToCe80UniCgR-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="la3iZoACToCe80UniCgR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="la3iZoACToCe80UniCgR-1" target="la3iZoACToCe80UniCgR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-1" value="&lt;div&gt;Input&lt;/div&gt;image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="167" y="245" width="60" height="40" as="geometry" />
         </mxCell>
@@ -101,7 +104,7 @@
           <mxGeometry x="850" y="287.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-38" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="950" y="291.5" width="27" height="27" as="geometry" />
+          <mxGeometry x="960" y="291.5" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
