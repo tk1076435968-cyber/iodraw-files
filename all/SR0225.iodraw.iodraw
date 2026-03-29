@@ -11,7 +11,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="la3iZoACToCe80UniCgR-1" target="la3iZoACToCe80UniCgR-38">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="197" y="210" />
+              <mxPoint x="973" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-1" value="&lt;div&gt;Input&lt;/div&gt;image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="167" y="245" width="60" height="40" as="geometry" />
@@ -102,6 +107,9 @@
         </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-36" value="Environment Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="287.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="la3iZoACToCe80UniCgR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="la3iZoACToCe80UniCgR-38" target="la3iZoACToCe80UniCgR-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-38" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="960" y="291.5" width="27" height="27" as="geometry" />
