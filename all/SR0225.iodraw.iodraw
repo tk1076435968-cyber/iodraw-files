@@ -31,6 +31,9 @@
         <mxCell id="p0MVjZSAXoaw8sr4ReX8-9" value="Output Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="235" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="p0MVjZSAXoaw8sr4ReX8-10" value="Input Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
