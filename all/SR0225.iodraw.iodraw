@@ -94,6 +94,9 @@
         <mxCell id="la3iZoACToCe80UniCgR-33" value="Environment Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="287.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="la3iZoACToCe80UniCgR-36" value="Environment Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="530" width="80" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
