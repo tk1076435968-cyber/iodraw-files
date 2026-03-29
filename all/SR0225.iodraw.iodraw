@@ -52,8 +52,11 @@
         <mxCell id="p0MVjZSAXoaw8sr4ReX8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p0MVjZSAXoaw8sr4ReX8-12" target="p0MVjZSAXoaw8sr4ReX8-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="p0MVjZSAXoaw8sr4ReX8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p0MVjZSAXoaw8sr4ReX8-12" target="p0MVjZSAXoaw8sr4ReX8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p0MVjZSAXoaw8sr4ReX8-12" value="Person Mask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="330" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0MVjZSAXoaw8sr4ReX8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p0MVjZSAXoaw8sr4ReX8-17" target="p0MVjZSAXoaw8sr4ReX8-9">
           <mxGeometry relative="1" as="geometry" />
