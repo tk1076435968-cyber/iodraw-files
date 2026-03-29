@@ -49,8 +49,8 @@
         <mxCell id="p0MVjZSAXoaw8sr4ReX8-12" value="Post LUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p0MVjZSAXoaw8sr4ReX8-17" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="p0MVjZSAXoaw8sr4ReX8-17" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
