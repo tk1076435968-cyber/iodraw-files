@@ -26,9 +26,9 @@
           <mxGeometry x="353" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-9" value="Alpha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="353" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="la3iZoACToCe80UniCgR-10" value="Alpha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="la3iZoACToCe80UniCgR-10" value="Normal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
