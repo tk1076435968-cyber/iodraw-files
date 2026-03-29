@@ -120,6 +120,9 @@
         <mxCell id="la3iZoACToCe80UniCgR-38" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="960" y="291.5" width="27" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="la3iZoACToCe80UniCgR-44" value="&lt;div&gt;Input&lt;/div&gt;Prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177" y="335" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
