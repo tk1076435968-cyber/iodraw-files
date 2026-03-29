@@ -43,7 +43,7 @@
         <mxCell id="la3iZoACToCe80UniCgR-10" value="Normal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="la3iZoACToCe80UniCgR-16" value="Perception&lt;div&gt;Module&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="la3iZoACToCe80UniCgR-16" value="Decision &amp;amp; Planning Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="240" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
