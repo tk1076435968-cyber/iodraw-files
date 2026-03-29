@@ -131,6 +131,12 @@
         <mxCell id="la3iZoACToCe80UniCgR-52" value="PSNR/SSIM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="470" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="la3iZoACToCe80UniCgR-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="la3iZoACToCe80UniCgR-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="410" as="sourcePoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
