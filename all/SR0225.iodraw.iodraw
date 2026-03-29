@@ -37,11 +37,17 @@
         <mxCell id="la3iZoACToCe80UniCgR-7" value="Alpha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="175" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="la3iZoACToCe80UniCgR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="la3iZoACToCe80UniCgR-8" target="la3iZoACToCe80UniCgR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-8" value="Albedo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="225" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-9" value="Depth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="la3iZoACToCe80UniCgR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="la3iZoACToCe80UniCgR-10" target="la3iZoACToCe80UniCgR-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="la3iZoACToCe80UniCgR-10" value="Normal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="60" height="30" as="geometry" />
