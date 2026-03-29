@@ -37,8 +37,8 @@
         <mxCell id="p0MVjZSAXoaw8sr4ReX8-11" value="Origin Mask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p0MVjZSAXoaw8sr4ReX8-12" value="Origin Mask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="370" width="80" height="40" as="geometry" />
+        <mxCell id="p0MVjZSAXoaw8sr4ReX8-12" value="Post Lut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
