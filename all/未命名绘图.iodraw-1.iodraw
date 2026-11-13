@@ -46,7 +46,7 @@
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-15" value="参考网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="226.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HdVlqDjLv4fsr1KM2gBb-16" value="参考网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-16" value="去噪网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
