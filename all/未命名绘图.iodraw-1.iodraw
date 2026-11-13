@@ -14,10 +14,10 @@
           <mxGeometry x="156.25" y="267.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="148.75" y="266.25" width="115" height="52.5" as="geometry" />
+          <mxGeometry x="510" y="460" width="115" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="HdVlqDjLv4fsr1KM2gBb-6" value="&lt;font face=&quot;Verdana&quot;&gt;变分自编码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="166.25" y="277.5" width="80" height="30" as="geometry" />
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-6" value="&lt;font face=&quot;Verdana&quot;&gt;人脸编码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="471.25" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
