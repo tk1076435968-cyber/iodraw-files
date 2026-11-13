@@ -38,10 +38,10 @@
           <mxGeometry x="304" y="350" width="80" height="126.25" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-13" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="780" y="297.5" width="115" height="52.5" as="geometry" />
+          <mxGeometry x="650" y="308.75" width="115" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="HdVlqDjLv4fsr1KM2gBb-14" value="&lt;font face=&quot;Verdana&quot;&gt;变分自编码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="797.5" y="308.75" width="80" height="30" as="geometry" />
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-14" value="&lt;font face=&quot;Verdana&quot;&gt;变分自解码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="320" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
