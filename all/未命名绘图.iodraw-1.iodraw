@@ -106,11 +106,16 @@
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-38" value="语音" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="57.88999999999999" y="522.25" width="60" height="17.75" as="geometry" />
         </mxCell>
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HdVlqDjLv4fsr1KM2gBb-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="171.95" y="489.25" width="100" height="40.75" as="geometry" />
+          <mxGeometry x="169.95" y="489.25" width="100" height="40.75" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-41" value="音频编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186.32" y="498.25" width="71.27" height="20" as="geometry" />
+          <mxGeometry x="184.32" y="498.25" width="71.27" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-44" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="585" y="388.99999999999994" width="52.5" height="80" as="geometry" />
@@ -125,10 +130,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="300" y="498.25" width="80" height="30" as="geometry" />
+          <mxGeometry x="298" y="498.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-50" value="交叉注意力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="304" y="503.25" width="71.27" height="20" as="geometry" />
+          <mxGeometry x="302" y="503.25" width="71.27" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="517" as="targetPoint" />
+            <mxPoint x="146" y="517" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
