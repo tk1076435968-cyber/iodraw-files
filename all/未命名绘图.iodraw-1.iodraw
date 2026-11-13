@@ -8,7 +8,10 @@
           <mxGeometry x="40" y="330" width="67.54" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="227.5" width="115" height="110" as="geometry" />
+          <mxGeometry x="138.75" y="256.25" width="115" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-4" value="VAE 编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
