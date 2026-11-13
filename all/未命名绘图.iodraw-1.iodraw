@@ -43,6 +43,9 @@
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-14" value="&lt;font face=&quot;Verdana&quot;&gt;变分自解码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="667.5" y="320" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-15" value="参考网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
