@@ -107,8 +107,11 @@
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-38" value="语音" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="57.88999999999999" y="522.25" width="60" height="17.75" as="geometry" />
         </mxCell>
-        <mxCell id="HdVlqDjLv4fsr1KM2gBb-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="560" width="100" height="50" as="geometry" />
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="152.25" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HdVlqDjLv4fsr1KM2gBb-41" value="生成视频" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="84" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
