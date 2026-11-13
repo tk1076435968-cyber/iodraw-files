@@ -11,7 +11,7 @@
           <mxGeometry x="138.75" y="256.25" width="115" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-4" value="VAE 编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
